@@ -17,5 +17,7 @@ HW was fairly simple, I used regex to validate license plate string
 On a related note, at my previous employment I had developed 
 Automatic License Plate Recognition (ALPR), ML based solution which extracts license-plates
 from videos or images with high accuracy
+
+
 demo:
 https://drive.google.com/file/d/1bP2fAT_Jb2MFKSQVRMafXqK4pM6PFItL/view?usp=share_link
